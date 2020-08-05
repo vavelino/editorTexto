@@ -1,0 +1,10 @@
+D:\OneDrive\Develop\CSharp\EditorText\bin\Debug\EditorText.exe.config
+D:\OneDrive\Develop\CSharp\EditorText\bin\Debug\EditorText.exe
+D:\OneDrive\Develop\CSharp\EditorText\bin\Debug\EditorText.pdb
+D:\OneDrive\Develop\CSharp\EditorText\obj\Debug\EditorText.csprojAssemblyReference.cache
+D:\OneDrive\Develop\CSharp\EditorText\obj\Debug\EditorText.Form1.resources
+D:\OneDrive\Develop\CSharp\EditorText\obj\Debug\EditorText.Properties.Resources.resources
+D:\OneDrive\Develop\CSharp\EditorText\obj\Debug\EditorText.csproj.GenerateResource.cache
+D:\OneDrive\Develop\CSharp\EditorText\obj\Debug\EditorText.csproj.CoreCompileInputs.cache
+D:\OneDrive\Develop\CSharp\EditorText\obj\Debug\EditorText.exe
+D:\OneDrive\Develop\CSharp\EditorText\obj\Debug\EditorText.pdb
